@@ -2,6 +2,8 @@
 
 ### TEST
 ```
+./gradlew test
+./gradlew clean test
 ```
 
 ### BUILD
